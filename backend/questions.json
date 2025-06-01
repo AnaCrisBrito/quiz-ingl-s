@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "question": "You___tired.",
+        "options": ["are", "is", "am"],
+        "answer": "are"
+    },
+
+    {
+        "id": 2,
+        "question":"I ___ a teacher.",
+        "options": ["am", "is", "are"],
+        "answer": "am"
+
+    },
+    
+    {
+        "id": 3,
+        "question": "She ___ very happy." ,
+        "options": ["am", "is", "are"],
+        "answer": "is"
+    },
+    
+    {
+        "id": 4,
+        "question": "They ___ students." ,
+        "options": ["am", "is", "are"],
+        "answer": "are"
+    },
+    
+    {
+        "id": 5,
+        "question": "He ___ my  brother.",
+        "options": ["am", "is", "are"],
+        "answer": "is"
+    },
+    
+    {
+        "id": 6,
+        "question": "We ___ ready for the test.",
+        "options": ["am", "is", "are"],
+        "answer": "are"
+    },
+    
+    {
+        "id": 7,
+        "question": "You ___ my best friend.",
+        "options": ["am", "is", "are"],
+        "answer": "are"
+    },
+    
+    {
+        "id": 8,
+        "question": "It ___ a nice day.",
+        "options": ["am", "is", "are"],
+        "answer": "is"
+    },
+    {
+        "id": 9,
+        "question": "I ___ at home now.",
+        "options": ["am", "is", "are"],
+        "answer": "am"
+    },
+    
+    {
+        "id": 10,
+        "question": "They ___ in the classrom.",
+        "options": ["am", "is", "are"],
+        "answer": "are"
+    },
+    
+    {
+        "id": 11,
+        "question": "My mother ___ a nurse.",
+        "options": ["am", "is", "are"],
+        "answer": "is"
+    }
+    
+]
