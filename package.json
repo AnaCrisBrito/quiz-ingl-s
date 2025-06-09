@@ -1,0 +1,24 @@
+{
+  "name": "quiz-ingles",
+  "version": "1.0.0",
+  "description": "Este é um projeto de aplicação Web criado para a disciplina de Introdução à Programação Web da faculdade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaCrisBrito/quiz-ingl-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaCrisBrito/quiz-ingl-s/issues"
+  },
+  "homepage": "https://github.com/AnaCrisBrito/quiz-ingl-s#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
